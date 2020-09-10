@@ -1,0 +1,43 @@
+{
+  "users": [
+    
+    {
+      "email": "testingT@gmail.com",
+      "password": "$2a$10$D4tBlvRcRftit9Kyjf62MuwM5xXI90iIgd0drcjUUlHYhuBtePP2W",
+      "firstName": "testing",
+      "lastName": "testing",
+      "id": 3
+    }
+  ],
+  "podcasts": [
+    {
+      "title": "Non-Descript Podcast of Things",
+      "desc": "Jesse's Non-Descript Podcast of Things",
+      "categories": [
+        "Fiction"
+      ],
+      "userId": "3",
+      "id": 1
+    },
+    {
+      "title": "Valerie In Toronto",
+      "desc": "A personal, sometimes-profane primer on things particular to Toronto and Canada, from a radio refugee born in the USA but Canadian by choice.",
+      "categories": [
+        "Action",
+        "Fiction"
+      ],
+      "userId": "3",
+      "id": 2
+    },
+    {
+      "title": "6 Minute Grammar",
+      "desc": "Learn English grammar in six minutes. Every Tuesday join two of our presenters and learn a new key area of grammar. Our presenters include Finn, Emma, Rob, Neil, Sophie & Alice.",
+      "categories": [
+        "Art",
+        "Language"
+      ],
+      "userId": "3",
+      "id": 3
+    }
+  ]
+}
